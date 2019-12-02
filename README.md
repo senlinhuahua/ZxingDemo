@@ -1,4 +1,4 @@
 # ZxingDemo
-zxing单纯集成
+zxing提取
 
 直接可用
